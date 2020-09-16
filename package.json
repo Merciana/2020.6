@@ -1,0 +1,27 @@
+{
+	" nome " : " código " ,
+	" versão " : " 1.0.0 " ,
+	" descrição " : " Estruturas de Dados " ,
+	" main " : " index.js " ,
+	" scripts " : {
+		" teste " : " brincadeira " ,
+		" docs " : " ./node_modules/.bin/jsdoc -c jsdoc.json "
+	},
+	" palavras-chave " : [
+		" meninos " ,
+		" eaj " ,
+		" ufrn " ,
+		" estrutura de dados "
+	],
+	" autor " : " taniro " ,
+	" licença " : " MIT " ,
+	" devDependencies " : {
+		" @ babel / core " : " ^ 7.11.6 " ,
+		" @ babel / plugin-proposal-class-properties " : " ^ 7.10.4 " ,
+		" @ babel / preset-env " : " ^ 7.11.5 " ,
+		" @ types / jest " : " ^ 25.2.3 " ,
+		" babel-jest " : " ^ 25.5.1 " ,
+		" jest " : " ^ 25.5.4 " ,
+		" jsdoc " : " ^ 3.6.5 "
+	}
+}
